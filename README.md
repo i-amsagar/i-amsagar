@@ -1,10 +1,11 @@
 ### Hi 👋, I'm Sagar Tomar 🤗
 
-- 👨‍💻 I’m currently working on C++, HTML, CSS, Bootstrap, Tailwind CSS, Sass, JavaScript, ReactJs, RESTAPI, Mongodb, Python & Graphql. 
-- 📝 I’m currently learning NodeJs, Express and Graphql
-- 💬 Ask me about <.. Web Development ..>
-- 🌟 Fun fact: I 🥰love to Code and ...✌️ 
+- 👨‍💻 Software Engineer | Full Stack Developer | Web Development
+- 📝 I’m always seeking new technologies to explore.
+- 💬 Ask me about Web Development! I'm here to help.
+- ✨ Fun fact: I'm passionate about coding and enjoy the thrill of problem-solving before writing the code. ✌️ 
 - 🤔 "First, solve the problem. Then, write the code😎"
+- 🌐 Feel free to explore my GitHub profile for impressive projects and code samples!
 
 ---
 
