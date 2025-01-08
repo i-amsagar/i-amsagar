@@ -1,11 +1,23 @@
 ### Hi 👋, I'm Sagar Tomar 🤗
 
-- 👨‍💻 Software Engineer | Frontend Developer
-- 📝 I’m always seeking new technologies to explore.
-- 💬 Ask me about Frontend Developer! I'm here to help.
-- ✨ Fun fact: I'm passionate about coding and enjoy the thrill of problem-solving before writing the code. ✌️ 
-- 🤔 "First, solve the problem. Then, write the code😎"
-- 🌐 Feel free to explore my GitHub profile for impressive projects and code samples!
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" width="300px" />
+      </td>
+      <td>
+        <ul>
+          <li>👨‍💻 Software Engineer | Frontend Developer</li>
+          <li>💬 Ask me about Frontend Development! I'm here to help.</li>
+          <li>✨ Fun fact: I'm passionate about coding and enjoy the thrill of problem-solving before writing the code. ✌️</li>
+          <li>🤔 "First, solve the problem. Then, write the code😎"</li>
+          <li>🌐 Feel free to explore my GitHub profile!</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
