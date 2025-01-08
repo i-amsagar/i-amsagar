@@ -1,23 +1,24 @@
 ### Hi 👋, I'm Sagar Tomar 🤗
 
 <div align="center">
-  <table>
+  <table style="width: 100%; max-width: 600px; margin: auto;">
     <tr>
-      <td>
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" width="300px" />
+      <td style="text-align: center;">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" style="width: 100%; max-width: 300px; height: auto;" />
       </td>
-      <td>
-        <ul>
+      <td style="text-align: left; padding: 10px;">
+        <ul style="list-style-type: none; padding: 0; margin: 0;">
           <li>👨‍💻 Software Engineer | Frontend Developer</li>
           <li>💬 Ask me about Frontend Development! I'm here to help.</li>
           <li>✨ Fun fact: I'm passionate about coding and enjoy the thrill of problem-solving before writing the code. ✌️</li>
-          <li>🤔 "First, solve the problem. Then, write the code😎"</li>
+          <li>🤔 "First, solve the problem. Then, write the code 😎"</li>
           <li>🌐 Feel free to explore my GitHub profile!</li>
         </ul>
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
