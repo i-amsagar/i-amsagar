@@ -1,7 +1,6 @@
 ### Hi 👋, I'm Sagar Tomar 🤗
 
-A passionate <strong>Software Engineer</strong> with a strong foundation in web technologies and a growing interest in <strong>Full Stack Development</strong>.
-I love working on clean, optimized code and solving logical challenges. Whether it's writing scalable functions, optimizing performance, or collaborating on impactful projects — I'm all in!
+A passionate <strong>Software Engineer</strong> with a strong foundation in modern software development and a growing interest in <strong>Full Stack Development & Generative AI</strong>.
 
 ---
 
